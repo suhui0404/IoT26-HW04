@@ -1,4 +1,4 @@
-# IoT26 Team-J HW04- Raspberry Pi Web Server LED Control
+# IoT26 TeamJ HW04- Raspberry Pi Web Server LED Control
 
 ## 1. Objective
 
